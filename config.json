@@ -1,0 +1,11 @@
+{
+   "host": "http://www.google.co.uk",
+   "interval" : 0.5,
+   "powercycle_wait": 6,
+   "ippower9258" : {
+       "ipAddress" : "192.168.0.11",
+       "userName" : "admin",
+       "password" : "12345678",
+       "outlet" : 0
+   }
+}
